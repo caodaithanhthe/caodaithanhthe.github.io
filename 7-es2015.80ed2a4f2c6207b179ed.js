@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"Gc//":function(n,o,t){"use strict";t.r(o),t.d(o,"EventDocumentModule",(function(){return c}));var e=t("ofXK"),r=t("fXoL");let c=(()=>{class n{}return n.\u0275mod=r.Db({type:n}),n.\u0275inj=r.Cb({factory:function(o){return new(o||n)},imports:[[e.b]]}),n})()}}]);
